@@ -68,51 +68,457 @@ The TAs will hold a tutorial session one or two days before each quiz. Details w
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 13% |
-| Quiz 1 | 15% |
-| Quiz 2 | 25% |
-| Recitations | 12% |
-| Final Exam | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+13%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitations
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1: Statics - Elements of Equilibrium**{{< /td-colspan >}} |||
-| 1 | Course Outline, Review of Forces and Moments, Introduction to Equilibrium | &nbsp; |
-| 2 | Forces, Moments, Equilibrium | &nbsp; |
-| 3 | Applying the Equations of Equilibrium, Planar Trusses | &nbsp; |
-| 4 | Friction | &nbsp; |
-| {{< td-colspan 3 >}}**Part 2: Forces and Moments Transmitted by Slender Members**{{< /td-colspan >}} |||
-| 5 | Shear Force and Bending Moment Diagrams | Problem set 1 due |
-| 6 | Shear Force and Bending Moment Diagrams (cont.) | Problem set 2 due |
-| {{< td-colspan 3 >}}**Part 3: Mechanics of Deformable Bodies - Introduction**{{< /td-colspan >}} |||
-| 7 | Force-deformation Relationships and Static Indeterminacy | &nbsp; |
-| 8 | Finishing up Static Indeterminacy; Uniaxial Loading and Material Properties | Problem set 3 due |
-| 9 | Trusses and Their Deformations | Problem set 4 due |
-| 10 | Statically Determinate and Indeterminate Trusses | Problem set 5 due |
-| 11 | Quiz 1 | &nbsp; |
-| {{< td-colspan 3 >}}**Part 4: Force-Stress-Equilibrium**{{< /td-colspan >}} |||
-| 12 | Multiaxial Stress | &nbsp; |
-| 13 | Multiaxial Stress and Strain | &nbsp; |
-| {{< td-colspan 3 >}}**Part 5: Displacement - Strain**{{< /td-colspan >}} |||
-| 14 | Multiaxial Strain and Multiaxial Stress-strain Relationships | &nbsp; |
-| {{< td-colspan 3 >}}**Part 6: Linear Elasticity - Material Behavior**{{< /td-colspan >}} |||
-| 15 | Stress-strain-temperature Relationships and Thin-walled Pressure Vessels | Problem set 6 due |
-| 16 | Stress Transformations and Principal Stress | &nbsp; |
-| 17 | Stress and Strain Transformations | Problem set 7 due |
-| 18 | Failure of Materials and Examples | Problem set 8 due |
-| 19 | Quiz 2 | &nbsp; |
-| {{< td-colspan 3 >}}**Part 7: Bending: Stress and Strains; Deflections**{{< /td-colspan >}} |||
-| 20 | Pure Bending | &nbsp; |
-| 21 | Moment-curvature Relationship | Problem set 9 due |
-| 22 | Beam Deflection | &nbsp; |
-| 23 | Symmetry, Superposition, and Statically Indeterminate Beams | Problem set 10 due |
-| {{< td-colspan 3 >}}**Part 8: Torsion; Energy Methods**{{< /td-colspan >}} |||
-| 24 | Torsion and Twisting | &nbsp; |
-| 25 | Torsion Examples | Problem set 11 due |
-| 26 | Energy Methods | &nbsp; |
-| 27 | Examples |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: Statics - Elements of Equilibrium**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Outline, Review of Forces and Moments, Introduction to Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Forces, Moments, Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Applying the Equations of Equilibrium, Planar Trusses
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Friction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2: Forces and Moments Transmitted by Slender Members**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Shear Force and Bending Moment Diagrams
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Shear Force and Bending Moment Diagrams (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 3: Mechanics of Deformable Bodies - Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Force-deformation Relationships and Static Indeterminacy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Finishing up Static Indeterminacy; Uniaxial Loading and Material Properties
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Trusses and Their Deformations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Statically Determinate and Indeterminate Trusses
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 4: Force-Stress-Equilibrium**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Multiaxial Stress
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Multiaxial Stress and Strain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 5: Displacement - Strain**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Multiaxial Strain and Multiaxial Stress-strain Relationships
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 6: Linear Elasticity - Material Behavior**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Stress-strain-temperature Relationships and Thin-walled Pressure Vessels
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Stress Transformations and Principal Stress
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Stress and Strain Transformations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Failure of Materials and Examples
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 7: Bending: Stress and Strains; Deflections**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Pure Bending
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Moment-curvature Relationship
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Beam Deflection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Symmetry, Superposition, and Statically Indeterminate Beams
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 8: Torsion; Energy Methods**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Torsion and Twisting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Torsion Examples
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 11 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
